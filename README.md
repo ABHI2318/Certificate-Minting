@@ -1,2 +1,1 @@
-# Certificate-Minting
-Web3 Project 
+# Certificate_contract
